@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-portfolio-uzair.vercel.app",
+  site: "https://elenavesc.github.io/portfolio/",
   integrations: [
     tailwind(),
     sitemap({
@@ -16,4 +16,5 @@ export default defineConfig({
     }),
     robotsTxt(),
   ],
+  base: '/portfolio'
 });
