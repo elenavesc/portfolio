@@ -79,14 +79,14 @@ export const info = {
     {
       title: "Compartamos",
       isFeatured: true,
-      thumbnail: "/assets/images/3-removebg-preview.png",
+      thumbnail: "assets/images/3-removebg-preview.png",
       githubUrl: "https://github.com/elenavesc/Compartamos",
       liveUrl: "https://elenavesc.github.io/Compartamos/",
     },
     {
       title: "Harry Potter API",
       isFeatured: true,
-      thumbnail: "/assets/images/hp.jpg",
+      thumbnail: "assets/images/hp.jpg",
       githubUrl: "https://github.com/elenavesc/Harry-Potter-List",
       liveUrl: "https://beta.adalab.es/modulo-3-evaluacion-final-elenavesc/",
     },
