@@ -79,7 +79,7 @@ export const info = {
     {
       title: "Compartamos",
       isFeatured: true,
-      thumbnail: "assets/images/3-removebg-preview.png",
+      thumbnail: "assets/images/compartamos.jpg",
       githubUrl: "https://github.com/elenavesc/Compartamos",
       liveUrl: "https://elenavesc.github.io/Compartamos/",
     },
@@ -90,5 +90,19 @@ export const info = {
       githubUrl: "https://github.com/elenavesc/Harry-Potter-List",
       liveUrl: "https://beta.adalab.es/modulo-3-evaluacion-final-elenavesc/",
     },
+    {
+      title: "<She Code/>",
+      isFeatured: true,
+      thumbnail: "assets/images/shecode.jpg",
+      githubUrl: "https://github.com/elenavesc/-SheCode-",
+      liveUrl:"http://beta.adalab.es/project-promo-a-module-1-team-2/",
+    },
+    {
+      title: "Creadoras",
+      isFeatured: true,
+      thumbnail: "assets/images/creadoras.jpg",
+      githubUrl: "https://github.com/elenavesc/Creadoras",
+      liveUrl:"https://project-promo-apt-module-4-team-2.onrender.com/",
+    }
   ],
 };

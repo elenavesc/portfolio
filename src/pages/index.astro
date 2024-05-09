@@ -13,6 +13,7 @@ const featureProjects = info.projects.reduce((accumulator, project) => {
   }
   return accumulator;
 }, []);
+//TO DO: https://docs.astro.build/es/guides/routing/
 ---
 
 <!DOCTYPE html>
@@ -21,7 +22,7 @@ const featureProjects = info.projects.reduce((accumulator, project) => {
     <MetaHead
       title={"Portfolio"}
       description={info.about}
-      ogImageUrl={"/assets/images/profile.png"}
+      ogImageUrl={"/assets/images/favico.jpg"}
     />
     <base href={import.meta.env.BASE_URL} />
   </head>
